@@ -8,8 +8,15 @@
      6	0x05-processes_and_signals
      7	0x06-regular_expressions
      8	0x07-networking_basics
+<<<<<<< HEAD
      9	0x09-web_infrastructure_design
     10	0x0A-configuration_management
     11	README.md
     12	command_line_for_the_win
+=======
+     9	0x08-networking_basics_2
+    10	0x09-web_infrastructure_design
+    11	command_line_for_the_win
+    12	README.md
+>>>>>>> bf357ebd61507427d61be3b117a8829486086e91
     13	update_readme.sh

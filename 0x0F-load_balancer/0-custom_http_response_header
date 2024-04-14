@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # configures a new Ubuntu machine
 
 # Install nginx on web-01 server
@@ -32,3 +33,15 @@ if [[ -z $FIND ]]; then
 fi
 
 service nginx restart
+=======
+# returns a custom header on request
+
+apt-get -y update
+apt-get -y install nginx
+
+sed -i "47i\\\tadd_header X-Served-By $HOSTNAME;" /etc/nginx/sites-available/default
+echo "Hello World!" | tee /var/www/html/index.html
+echo "Ceci n'est pas une page" > /var/www/html/404.html
+
+service nginx start
+>>>>>>> bf357ebd61507427d61be3b117a8829486086e91
