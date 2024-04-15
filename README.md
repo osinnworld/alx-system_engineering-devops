@@ -17,7 +17,9 @@
     15	0x0E-web_stack_debugging_1
     16	0x0F-load_balancer
     17	0x10-https_ssl
-    18	attack_is_the_best_defense
-    19	command_line_for_the_win
-    20	README.md
-    21	update_readme.sh
+    18	0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter
+    19	0x13-firewall
+    20	attack_is_the_best_defense
+    21	command_line_for_the_win
+    22	README.md
+    23	update_readme.sh
