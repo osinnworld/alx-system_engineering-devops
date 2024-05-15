@@ -18,8 +18,16 @@
     16	0x0F-load_balancer
     17	0x10-https_ssl
     18	0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter
-    19	0x13-firewall
-    20	attack_is_the_best_defense
-    21	command_line_for_the_win
-    22	README.md
-    23	update_readme.sh
+    19	0x12-web_stack_debugging_2
+    20	0x13-firewall
+    21	0x14-mysql
+    22	0x15-api
+    23	0x16-api_advanced
+    24	0x17-web_stack_debugging_3
+    25	0x18-webstack_monitoring
+    26	0x19-postmortem
+    27	0x1A-application_server
+    28	attack_is_the_best_defense
+    29	command_line_for_the_win
+    30	README.md
+    31	update_readme.sh
